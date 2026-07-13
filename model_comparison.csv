@@ -1,0 +1,5 @@
+Model,Mean AUC,Std AUC,Test AUC
+Controlled Decision Tree,1.0,0.0,1.0
+Random Forest,1.0,4.965068306494546e-17,1.0
+Gradient Boosting,1.0,0.0,1.0
+Logistic Regression,0.9998245614035088,0.0003508771929824572,0.9997822299651569
